@@ -6,10 +6,12 @@ Primero ingresamos a tu aplicación/cliente de Telegram, y seguimos los pasos a 
 
 ![Iniciando @BotFather](https://github.com/lenguaje-latino/LatGram/releases/download/0.5/1.png)
 -
+
 ### 2- Escribirle y mandarle el comando `/newbot`.
 
 ![Iniciando @BotFather](https://github.com/lenguaje-latino/LatGram/releases/download/0.5/2.png)
 -
+
 ### 3- Nos pedirá un nombre para el bot, en Telegram es llamado en inglés "first_name".
 
 ![Iniciando @BotFather](https://github.com/lenguaje-latino/LatGram/releases/download/0.5/3.png)
