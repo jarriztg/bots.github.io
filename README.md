@@ -16,6 +16,7 @@ Primero ingresamos a tu aplicación/cliente de Telegram, y seguimos los pasos a 
 
 ![Iniciando @BotFather](https://github.com/lenguaje-latino/LatGram/releases/download/0.5/3.png)
 -
+
 ### 4- Nos pedirá un nombre de usuario para el bot, debe terminar con `bot` al final, en Telegram es llamado en inglés "username", y será para mencionar al bot con @UsuarioBot, no puede incluir espacios solamente _ ó alfanuméricos.
 
 ![Iniciando @BotFather](https://github.com/lenguaje-latino/LatGram/releases/download/0.5/4.png)
